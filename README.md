@@ -1,5 +1,6 @@
 This repository contains scripts related to the Kubernetes.
 
-![image](https://github.com/user-attachments/assets/25bf0774-a95e-4b99-ba2c-66af6cf86197)
+![image](https://github.com/user-attachments/assets/05ab629c-6788-4cac-b5b0-0b8a02f5cbd9)
+
 
 
