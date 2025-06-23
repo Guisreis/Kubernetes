@@ -6,7 +6,7 @@ metadata:
   region: us-east-2
 
 vpc:
-  id: vpc-0521691eebd18c203 # Substitua pelo ID da sua VPC
+  id: vpc-0521691eebd18c203 
   subnets:
     public:
       us-east-2a:
